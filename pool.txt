@@ -1,0 +1,5 @@
+é legal
+é legal
+usa a cabeça
+aql msm
+& C:/Users/kazz0/AppData/Local/Programs/Python/Python39/python.exe c:/Users/kazz0/Desktop/pythons/division.py

@@ -1,0 +1,8 @@
+ele
+kelvin
+andressa
+isa
+ana
+russa
+& C:/Users/kazz0/AppData/Local/Programs/Python/Python39/python.exe c:/Users/kazz0/Desktop/pythons/guest.py
+& C:/Users/kazz0/AppData/Local/Programs/Python/Python39/python.exe c:/Users/kazz0/Desktop/pythons/guest.py

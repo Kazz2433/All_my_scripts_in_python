@@ -1,0 +1,4 @@
+em python podemos somar
+em python podemos multiplicar
+em python podemos dividir
+em python podemos subtrair
