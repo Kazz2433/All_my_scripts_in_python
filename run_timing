@@ -1,0 +1,19 @@
+import keyboard
+import time
+
+print('''
+----------------------------------
+            WELCOME
+----------------------------------
+
+press (Space) to start''')
+
+
+def run_time():
+    print(time.strftime('%M:%S', time.localtime()))
+
+while True:
+    run_time()
+    keyboard.wait('space')
+    
+
